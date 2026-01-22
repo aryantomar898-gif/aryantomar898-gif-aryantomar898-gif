@@ -56,6 +56,6 @@
 ---
 
 ## 📫 Connect With Me
--[LinkedIn](https://www.linkedin.com/in/Tomar Aryan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/TomarAryan/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](#) 
