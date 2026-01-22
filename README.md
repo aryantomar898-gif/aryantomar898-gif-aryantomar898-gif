@@ -50,12 +50,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan&show_icons=true&theme=radical)  
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantomar898-gif&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](#)  
+[![LinkedIn](https://www.linkedin.com/in/Tomar Aryan)(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](#)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](#) 
